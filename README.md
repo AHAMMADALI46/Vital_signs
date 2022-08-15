@@ -38,3 +38,4 @@ if _Name_="Temp" then do; Vstestcd="Pulse" ; Vtes"temperature"; end;
 if_Name_="sys" then do; Vstestcd="sysbp" ; Vtes"systolic blood pressure"; end;
 if_Name_="DIA" then do; Vstestcd="DIABP" ; Vtes"Pulse rate"; end;
 vsorres=strip(put (col1, Best.));
+xxx
